@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">ArmpiProColorTracking</string>
+    <string name="title">ArmpiPro-Color Tracking</string>
+    <string name="searching">searching...</string>
+    <string name="re_search">Search again</string>
+    <string name="search_finished">Search end</string>
+    <string name="no_find_device">NO device has been searched!</string>
+    <string name="device_list">Device list:</string>
+    <string name="exit_remind">Click again to exit</string>
+    <string name="device_ip">Device IP:</string>
+    <string name="device_id">Device ID:</string>
+    <string name="device_info">Device Information</string>
+    <string name="ok">OK</string>
+    <string name="up">Up</string>
+    <string name="down">Down</string>
+    <string name="forward">↑</string>
+    <string name="backward">↓</string>
+    <string name="left">←</string>
+    <string name="right">→</string>
+    <string name="absorb">Lift</string>
+    <string name="release">Release</string>
+    <string name="reset">Reset</string>
+    <string name="left2">Left</string>
+    <string name="right2">Right</string>
+    <string name="arm_control">Arm Control</string>
+    <string name="suction_cup">Suction Cup</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="tips">The maximum recognition distance is about 1m.</string>
+    <string name="select_color">Select color</string>
+    <string name="black">Black</string>
+    <string name="green">Green</string>
+    <string name="red">Red</string>
+    <string name="blue">Blue</string>
+    <string name="ask_select_color">Please select color for tracking</string>
+    <string name="please_open_line_tracking">Please start tracking</string>
+</resources>
